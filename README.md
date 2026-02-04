@@ -54,8 +54,7 @@ We trained and compared multiple algorithms using Scikit-Learn (80% Train / 20% 
 | Model | Accuracy | Analysis |
 | :--- | :---: | :--- |
 | **Random Forest (Selected)** 🥇 | **98.5%** | Robust to noise, handles non-linear relationships best. |
-| Support Vector Machine (SVM) | ~95.0% | Good accuracy but computationally heavier. |
-| Logistic Regression | ~88.0% | Struggled with complex 3D finger angles. |
+
 
 ---
 
